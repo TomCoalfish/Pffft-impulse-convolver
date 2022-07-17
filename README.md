@@ -4,7 +4,7 @@ Pretty fast impulse convolution
 * FFTConvolver
 
 # vcvfft.hpp
-``c++
+```c++
 #pragma once
 #include <pffft.h>
 #include <pffastconv.h>
